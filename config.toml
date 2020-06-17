@@ -6,7 +6,7 @@ paginate = 5
 
 [params]
   author = "Cullen Taylor"
-  description = "  "
+  description = "a little bit dour."
 
   [[params.social]]
     name = "mail"
