@@ -1,0 +1,25 @@
+baseURL = "https://blog.eggshell.me"
+languageCode = "en-us"
+title = "Cullen Taylor"
+theme = "m10c"
+paginate = 5
+
+[params]
+  author = "Cullen Taylor"
+  description = "  "
+
+  [[params.social]]
+    name = "mail"
+    url = "mailto:cullen@eggshell.me"
+
+  [[params.social]]
+    name = "paperclip"
+    url ="https://gitlab.com/eggshell/resume/blob/master/resume.pdf"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/eggshell"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/eggshellcullen"
